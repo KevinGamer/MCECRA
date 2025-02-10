@@ -1162,3 +1162,287 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Feb2025 03:14:30.567] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
 [10Feb2025 03:14:30.567] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
 [10Feb2025 03:15:29.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Diamonds!]
+[10Feb2025 03:16:04.766] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:16:04.767] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:16:10.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to ileeann]
+[10Feb2025 03:17:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:17:43.163] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:17:43.164] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:17:52.935] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 03:17:52.936] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 03:18:02.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU tried to swim in lava
+[10Feb2025 03:18:02.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann was impaled on a stalagmite
+[10Feb2025 03:18:03.548] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 03:18:04.418] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 03:18:08.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to ileeann]
+[10Feb2025 03:18:15.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=66, z=8}
+[10Feb2025 03:18:16.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=67, z=8}
+[10Feb2025 03:18:21.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported ileeann to WositoGamer]
+[10Feb2025 03:18:29.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:18:35.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported ileeann to WositoGamer]
+[10Feb2025 03:18:42.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported JoelTupapiUwU to WositoGamer]
+[10Feb2025 03:19:17.031] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 03:19:17.035] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 03:24:31.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann has made the advancement [Getting an Upgrade]
+[10Feb2025 03:25:24.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:25:41.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Quite the Renovation]
+[10Feb2025 03:25:46.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to WositoGamer]
+[10Feb2025 03:25:47.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Quite the Renovation]
+[10Feb2025 03:26:06.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [A True Source of Evil]
+[10Feb2025 03:26:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Magic Writing]
+[10Feb2025 03:27:27.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to JoelTupapiUwU]
+[10Feb2025 03:28:09.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [First Age]
+[10Feb2025 03:28:32.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:28:41.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported JoelTupapiUwU to WositoGamer]
+[10Feb2025 03:28:49.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:28:55.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported JoelTupapiUwU to WositoGamer]
+[10Feb2025 03:29:57.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [A Strange Grave Dust]
+[10Feb2025 03:30:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Ashes 'n Bones]
+[10Feb2025 03:30:24.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU has made the advancement [Monster Hunter]
+[10Feb2025 03:30:44.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Knowledge raises the soul]
+[10Feb2025 03:31:15.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to ileeann]
+[10Feb2025 03:31:50.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to JoelTupapiUwU]
+[10Feb2025 03:31:53.101] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:31:53.102] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:32:29.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:32:32.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann fell from a high place
+[10Feb2025 03:32:34.644] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 03:33:20.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported JoelTupapiUwU to WositoGamer]
+[10Feb2025 03:33:23.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ileeann was kicked for floating too long!
+[10Feb2025 03:33:23.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ileeann lost connection: Flying is not enabled on this server
+[10Feb2025 03:33:23.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann left the game
+[10Feb2025 03:33:32.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ileeann[/127.203.129.92:41369] logged in with entity id 36980 at (170.24995866961024, 45.28549238931867, -21.29366040980035)
+[10Feb2025 03:33:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann joined the game
+[10Feb2025 03:33:32.524] [Server thread/INFO] [Jade/]: Syncing config to ileeann (c22ca926-cecd-3bf5-ad21-ce2faa950716)
+[10Feb2025 03:33:32.763] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ileeann (c22ca926-cecd-3bf5-ad21-ce2faa950716)
+[10Feb2025 03:33:37.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ileeann was kicked for floating too long!
+[10Feb2025 03:33:38.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ileeann lost connection: Flying is not enabled on this server
+[10Feb2025 03:33:38.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann left the game
+[10Feb2025 03:33:46.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ileeann[/127.203.129.92:46483] logged in with entity id 37209 at (170.24995866961024, 3.429905558197068, -21.29366040980035)
+[10Feb2025 03:33:46.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann joined the game
+[10Feb2025 03:33:46.069] [Server thread/INFO] [Jade/]: Syncing config to ileeann (c22ca926-cecd-3bf5-ad21-ce2faa950716)
+[10Feb2025 03:33:47.307] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ileeann (c22ca926-cecd-3bf5-ad21-ce2faa950716)
+[10Feb2025 03:34:38.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported JoelTupapiUwU to WositoGamer]
+[10Feb2025 03:34:57.312] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=877, y=12, z=36} but found not block entity block Block{minecraft:water}[level=8] at location
+[10Feb2025 03:34:57.312] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=877, y=12, z=36}
+[10Feb2025 03:35:03.306] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 03:35:03.307] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 03:35:15.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to JoelTupapiUwU]
+[10Feb2025 03:35:40.540] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 03:35:40.553] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 03:37:25.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has completed the challenge [Learn to Fart]
+[10Feb2025 03:37:25.218] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: team.creative.playerrevive.server.ReviveEventServer@3525dbe9 playerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@3c2d9858 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@4f16bd99 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@5a3f15bb onInteractWithEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: net.minecraftforge.eventbus.EventBus$$Lambda$4227/0x00007cfdd8ac57a8@c8e0d6a
+		10: net.minecraftforge.eventbus.EventBus$$Lambda$4227/0x00007cfdd8ac57a8@d7671f5
+		11: ASM: class tictim.paraglider.forge.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[10Feb2025 03:37:25.220] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@681a8793, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23155!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23155!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23155!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[10Feb2025 03:37:38.258] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: team.creative.playerrevive.server.ReviveEventServer@3525dbe9 playerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@3c2d9858 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@4f16bd99 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@5a3f15bb onInteractWithEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: net.minecraftforge.eventbus.EventBus$$Lambda$4227/0x00007cfdd8ac57a8@c8e0d6a
+		10: net.minecraftforge.eventbus.EventBus$$Lambda$4227/0x00007cfdd8ac57a8@d7671f5
+		11: ASM: class tictim.paraglider.forge.event.ParagliderEventHandler onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[10Feb2025 03:37:38.259] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@2cae9f95, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23155!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23155!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23155!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.3.7-universal.jar%23204!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[10Feb2025 03:39:49.490] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:39:49.500] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:40:08.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann was blown up by Creeper
+[10Feb2025 03:40:09.850] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 03:40:30.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Jennifer Dumped Me]
+[10Feb2025 03:40:52.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann has reached the goal [Here They Come]
+[10Feb2025 03:40:52.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported ileeann to WositoGamer]
+[10Feb2025 03:41:05.930] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 03:41:05.943] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 03:41:11.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to JoelTupapiUwU]
+[10Feb2025 03:41:27.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:41:45.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported JoelTupapiUwU to WositoGamer]
+[10Feb2025 03:42:05.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=785, y=65, z=56} BlockPos{x=784, y=64, z=56}
+[10Feb2025 03:42:05.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=785, y=65, z=56} BlockPos{x=784, y=64, z=56}
+[10Feb2025 03:42:19.038] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 03:42:19.042] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 03:43:10.119] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[10Feb2025 03:43:41.082] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 03:43:41.095] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 03:44:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:44:19.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Best Friends Forever]
+[10Feb2025 03:45:01.731] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 03:45:01.743] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 03:45:08.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU was slain by Raccoon
+[10Feb2025 03:45:09.943] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 03:45:18.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported JoelTupapiUwU to ileeann]
+[10Feb2025 03:45:46.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Safe Haven]
+[10Feb2025 03:45:50.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to WositoGamer]
+[10Feb2025 03:45:50.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Safe Haven]
+[10Feb2025 03:46:08.773] [Server thread/WARN] [tombstone/]: The death event of the player WositoGamer was canceled by another mod
+[10Feb2025 03:46:08.774] [Server thread/INFO] [tombstone/]: The player WositoGamer has successfully been saved
+[10Feb2025 03:47:19.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoelTupapiUwU lost connection: Disconnected
+[10Feb2025 03:47:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU left the game
+[10Feb2025 03:48:22.839] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 03:48:22.855] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 03:48:30.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:49:10.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/43018, l='ServerLevel[world]', x=827.30, y=111.00, z=373.70] died, message: 'Butcher was shot by Pillager'
+[10Feb2025 03:49:28.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoelTupapiUwU[/127.226.255.161:33899] logged in with entity id 46289 at (871.6545624142624, 64.0, 104.61646727970682)
+[10Feb2025 03:49:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU joined the game
+[10Feb2025 03:49:28.718] [Server thread/INFO] [Jade/]: Syncing config to JoelTupapiUwU (6ab196af-d15d-3dea-b79a-bfbad2a1efae)
+[10Feb2025 03:49:28.970] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to JoelTupapiUwU (6ab196af-d15d-3dea-b79a-bfbad2a1efae)
+[10Feb2025 03:49:37.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Call For Adventure]
+[10Feb2025 03:51:00.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported ileeann to WositoGamer]
+[10Feb2025 03:51:00.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann has made the advancement [Safe Haven]
+[10Feb2025 03:51:04.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported JoelTupapiUwU to WositoGamer]
+[10Feb2025 03:51:05.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU has made the advancement [Safe Haven]
+[10Feb2025 03:51:27.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Ambush]
+[10Feb2025 03:51:27.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Voluntary Exile]
+[10Feb2025 03:53:19.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:54:02.536] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 03:54:02.539] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 03:54:08.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported KewexX07 to WositoGamer]
+[10Feb2025 03:54:33.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WositoGamer lost connection: Timed out
+[10Feb2025 03:54:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer left the game
+[10Feb2025 03:55:02.289] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b69a6de[id=<null>,name=WositoGamer,properties={},legacy=false] (/127.130.139.4:53121) lost connection: Disconnected
+[10Feb2025 03:55:18.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ileeann lost connection: Timed out
+[10Feb2025 03:55:18.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann left the game
+[10Feb2025 03:55:30.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WositoGamer[/127.130.139.4:36537] logged in with entity id 47774 at (858.6999999880791, 71.0, 330.88374025125046)
+[10Feb2025 03:55:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer joined the game
+[10Feb2025 03:55:30.305] [Server thread/INFO] [Jade/]: Syncing config to WositoGamer (5993af39-aee6-3b4b-ac3d-1585b8c41f97)
+[10Feb2025 03:55:38.849] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to WositoGamer (5993af39-aee6-3b4b-ac3d-1585b8c41f97)
