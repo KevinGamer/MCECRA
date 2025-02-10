@@ -650,3 +650,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 01:07:25.520] [Server thread/INFO] [Jade/]: Syncing config to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
 [10Feb2025 01:07:25.730] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
 [10Feb2025 01:09:41.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Stone Age]
+[10Feb2025 01:22:38.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WositoGamer[/127.130.139.4:56871] logged in with entity id 2709 at (8.5, 69.0, 9.5)
+[10Feb2025 01:22:38.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer joined the game
+[10Feb2025 01:22:38.740] [Server thread/INFO] [Jade/]: Syncing config to WositoGamer (5993af39-aee6-3b4b-ac3d-1585b8c41f97)
+[10Feb2025 01:22:38.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has reached the goal [Choose Your Class]
+[10Feb2025 01:22:54.162] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to WositoGamer (5993af39-aee6-3b4b-ac3d-1585b8c41f97)
+[10Feb2025 01:23:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Alex's Mobs]
+[10Feb2025 01:24:02.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WositoGamer> ADMIN
+[10Feb2025 01:24:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> eo
