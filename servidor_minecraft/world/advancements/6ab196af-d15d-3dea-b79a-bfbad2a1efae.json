@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-10 02:50:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-02-10 02:42:09 +0000"
@@ -50,6 +56,12 @@
   "spartanshields:recipes/wooden_tower_shield": {
     "criteria": {
       "has_planks": "2025-02-10 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-10 02:53:10 +0000"
     },
     "done": true
   },
@@ -161,9 +173,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-10 02:50:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-10 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-10 02:53:10 +0000"
     },
     "done": true
   },
@@ -203,9 +227,27 @@
     },
     "done": true
   },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-02-10 02:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-10 02:53:10 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-02-10 02:41:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-02-10 02:50:22 +0000"
     },
     "done": true
   },
@@ -218,6 +260,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-10 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-10 02:50:22 +0000"
     },
     "done": true
   },
@@ -251,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-10 02:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-02-10 02:42:09 +0000"
@@ -277,6 +331,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-02-10 02:49:53 +0000",
       "minecraft:river": "2025-02-10 02:37:38 +0000",
       "minecraft:forest": "2025-02-10 02:37:12 +0000",
       "minecraft:plains": "2025-02-10 02:40:01 +0000"
@@ -291,7 +346,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-02-10 02:41:30 +0000"
+      "bread": "2025-02-10 02:41:30 +0000",
+      "salmon": "2025-02-10 02:53:19 +0000",
+      "melon_slice": "2025-02-10 02:50:24 +0000"
     },
     "done": false
   },

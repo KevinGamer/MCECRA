@@ -567,6 +567,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-02-10 02:50:48 +0000",
       "melon_slice": "2025-02-10 02:22:58 +0000",
       "cooked_rabbit": "2025-02-10 02:05:53 +0000"
     },
