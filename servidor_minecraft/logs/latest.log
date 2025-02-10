@@ -799,3 +799,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 02:05:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Creative Mode]
 [10Feb2025 02:05:50.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Survival Mode]
 [10Feb2025 02:11:39.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [A Strange Grave Dust]
+[10Feb2025 02:16:55.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Creative Mode]
+[10Feb2025 02:17:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Survival Mode]
+[10Feb2025 02:17:10.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Sweet Dreams]
+[10Feb2025 02:20:33.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Mine? Mine? Mine?]
+[10Feb2025 02:21:58.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Ant-Agonizer]
+[10Feb2025 02:29:50.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KewexX07 lost connection: Disconnected
+[10Feb2025 02:29:50.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 left the game
+[10Feb2025 02:30:00.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KewexX07[/127.27.93.139:55829] logged in with entity id 18685 at (549.3000000119209, 65.0, 388.44473240296435)
+[10Feb2025 02:30:00.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 joined the game
+[10Feb2025 02:30:00.062] [Server thread/INFO] [Jade/]: Syncing config to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[10Feb2025 02:30:00.680] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (561 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=561, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[10Feb2025 02:30:00.681] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[10Feb2025 02:30:17.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KewexX07 lost connection: Disconnected
+[10Feb2025 02:30:17.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 left the game
+[10Feb2025 02:30:33.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KewexX07[/127.27.93.139:38391] logged in with entity id 19092 at (549.3000000119209, 65.0, 388.44473240296435)
+[10Feb2025 02:30:33.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 joined the game
+[10Feb2025 02:30:33.749] [Server thread/INFO] [Jade/]: Syncing config to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[10Feb2025 02:30:34.417] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (611 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=611, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[10Feb2025 02:30:34.418] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[10Feb2025 02:37:11.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoelTupapiUwU[/127.226.255.161:46155] logged in with entity id 20576 at (1.5, 64.0, -9.5)
+[10Feb2025 02:37:11.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU joined the game
+[10Feb2025 02:37:11.629] [Server thread/INFO] [Jade/]: Syncing config to JoelTupapiUwU (6ab196af-d15d-3dea-b79a-bfbad2a1efae)
+[10Feb2025 02:37:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU has reached the goal [Choose Your Class]
+[10Feb2025 02:37:22.554] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to JoelTupapiUwU (6ab196af-d15d-3dea-b79a-bfbad2a1efae)
+[10Feb2025 02:38:44.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Ashes 'n Bones]
+[10Feb2025 02:39:34.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU has completed the challenge [Ranger Class]
+[10Feb2025 02:40:11.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU has made the advancement [Alex's Mobs]
+[10Feb2025 02:43:11.536] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 02:43:11.548] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 02:43:21.405] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79fb7656[id=<null>,name=WositoGamer,properties={},legacy=false] (/127.130.139.4:40389) lost connection: Disconnected
+[10Feb2025 02:43:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU was slain by Bison
+[10Feb2025 02:43:22.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU has made the advancement [Your First Grave]
+[10Feb2025 02:43:25.237] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 02:43:41.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WositoGamer[/127.130.139.4:41765] logged in with entity id 23421 at (18.636444110422897, 66.0, 11.03586893491642)
+[10Feb2025 02:43:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer joined the game
+[10Feb2025 02:43:41.383] [Server thread/INFO] [Jade/]: Syncing config to WositoGamer (5993af39-aee6-3b4b-ac3d-1585b8c41f97)
+[10Feb2025 02:43:42.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to JoelTupapiUwU]
+[10Feb2025 02:43:49.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU has reached the goal [Here They Come]
+[10Feb2025 02:43:59.967] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to WositoGamer (5993af39-aee6-3b4b-ac3d-1585b8c41f97)
+[10Feb2025 02:44:04.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=65, z=-8}
