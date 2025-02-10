@@ -1102,3 +1102,63 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Feb2025 02:58:57.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
 [10Feb2025 03:01:48.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Ambush]
 [10Feb2025 03:01:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Voluntary Exile]
+[10Feb2025 03:05:31.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Isn't It Iron Pick]
+[10Feb2025 03:05:34.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ileeann[/127.203.129.92:54111] logged in with entity id 28282 at (15.063932620336788, 66.16636799395752, 12.663675615212382)
+[10Feb2025 03:05:34.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann joined the game
+[10Feb2025 03:05:34.160] [Server thread/INFO] [Jade/]: Syncing config to ileeann (c22ca926-cecd-3bf5-ad21-ce2faa950716)
+[10Feb2025 03:05:37.818] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ileeann (c22ca926-cecd-3bf5-ad21-ce2faa950716)
+[10Feb2025 03:05:48.695] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:05:48.696] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:06:00.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to ileeann]
+[10Feb2025 03:07:06.684] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:07:06.688] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:07:29.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to WositoGamer]
+[10Feb2025 03:07:36.033] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:07:36.035] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:07:36.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported ileeann to KewexX07]
+[10Feb2025 03:08:03.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Suit Up]
+[10Feb2025 03:08:13.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoelTupapiUwU[/127.226.255.161:58929] logged in with entity id 28814 at (34.68028700779543, 65.0, -2.2388120172762864)
+[10Feb2025 03:08:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU joined the game
+[10Feb2025 03:08:13.921] [Server thread/INFO] [Jade/]: Syncing config to JoelTupapiUwU (6ab196af-d15d-3dea-b79a-bfbad2a1efae)
+[10Feb2025 03:08:14.120] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to JoelTupapiUwU (6ab196af-d15d-3dea-b79a-bfbad2a1efae)
+[10Feb2025 03:08:42.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported JoelTupapiUwU to WositoGamer]
+[10Feb2025 03:08:47.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann has made the advancement [Alex's Mobs]
+[10Feb2025 03:08:50.263] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:08:50.264] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:08:58.139] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:08:58.142] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:09:13.782] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 03:09:13.788] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 03:09:19.903] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 03:09:19.904] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 03:09:31.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU was doomed to fall by ileeann
+[10Feb2025 03:09:33.447] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 03:09:59.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported JoelTupapiUwU to KewexX07]
+[10Feb2025 03:10:51.469] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:10:51.470] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:11:14.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann fell from a high place
+[10Feb2025 03:11:14.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann has made the advancement [Your First Grave]
+[10Feb2025 03:11:15.302] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 03:11:22.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=64, z=5}
+[10Feb2025 03:11:23.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=63, z=5}
+[10Feb2025 03:11:30.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=62, z=10}
+[10Feb2025 03:11:30.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=62, z=10}
+[10Feb2025 03:11:34.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Getting an Upgrade]
+[10Feb2025 03:11:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported ileeann to WositoGamer]
+[10Feb2025 03:12:39.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU has made the advancement [Stone Age]
+[10Feb2025 03:13:06.917] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 03:13:06.919] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 03:13:16.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ileeann has made the advancement [Stone Age]
+[10Feb2025 03:13:25.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to JoelTupapiUwU]
+[10Feb2025 03:13:30.731] [Server thread/WARN] [tombstone/]: The death event of the player JoelTupapiUwU was canceled by another mod
+[10Feb2025 03:13:30.738] [Server thread/INFO] [tombstone/]: The player JoelTupapiUwU has successfully been saved
+[10Feb2025 03:13:51.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Added JoelTupapiUwU to team [nopvp]]
+[10Feb2025 03:13:58.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Added ileeann to team [nopvp]]
+[10Feb2025 03:13:58.570] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:13:58.571] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:14:07.480] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:14:07.483] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:14:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Added WositoGamer to team [nopvp]]
+[10Feb2025 03:14:30.567] [Server thread/WARN] [tombstone/]: The death event of the player ileeann was canceled by another mod
+[10Feb2025 03:14:30.567] [Server thread/INFO] [tombstone/]: The player ileeann has successfully been saved
+[10Feb2025 03:15:29.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Diamonds!]
