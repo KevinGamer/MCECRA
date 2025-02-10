@@ -1095,3 +1095,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Feb2025 02:53:58.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU left the game
 [10Feb2025 02:54:25.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Added KewexX07 to team [nopvp]]
 [10Feb2025 02:54:29.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Added KewexX07 to team [nopvp]]
+[10Feb2025 02:55:25.889] [Server thread/WARN] [tombstone/]: The death event of the player WositoGamer was canceled by another mod
+[10Feb2025 02:55:25.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Killed WositoGamer]
+[10Feb2025 02:55:25.891] [Server thread/INFO] [tombstone/]: The player WositoGamer has successfully been saved
+[10Feb2025 02:55:36.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Teleported KewexX07 to WositoGamer]
+[10Feb2025 02:58:57.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [WositoGamer: Teleported WositoGamer to KewexX07]
+[10Feb2025 03:01:48.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Ambush]
+[10Feb2025 03:01:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer has made the advancement [Voluntary Exile]
