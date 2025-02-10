@@ -26,8 +26,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-02-10 00:58:45 +0000",
+      "minecraft:dark_forest": "2025-02-10 01:50:58 +0000",
       "minecraft:river": "2025-02-10 00:58:42 +0000",
-      "minecraft:forest": "2025-02-10 00:58:20 +0000"
+      "minecraft:dripstone_caves": "2025-02-10 01:52:30 +0000",
+      "minecraft:forest": "2025-02-10 00:58:20 +0000",
+      "minecraft:meadow": "2025-02-10 01:49:36 +0000"
     },
     "done": false
   },
@@ -115,6 +118,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-10 01:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-10 01:53:35 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-02-10 01:08:45 +0000"
@@ -139,6 +154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-10 01:53:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-10 01:09:41 +0000"
@@ -148,6 +169,12 @@
   "travelersbackpack:recipes/misc/enderman_smithing": {
     "criteria": {
       "has_enderman": "2025-02-10 01:32:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-02-10 01:50:16 +0000"
     },
     "done": true
   },
@@ -184,6 +211,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-10 01:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-10 01:53:34 +0000"
     },
     "done": true
   },
@@ -237,7 +270,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-02-10 01:32:26 +0000"
+      "minecraft:skeleton": "2025-02-10 01:32:26 +0000",
+      "minecraft:zombie": "2025-02-10 01:51:24 +0000"
     },
     "done": false
   },
@@ -265,15 +299,45 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 01:52:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 01:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-02-10 01:08:43 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-10 01:53:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 01:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-10 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-10 01:57:46 +0000"
     },
     "done": true
   },
@@ -301,12 +365,6 @@
     },
     "done": true
   },
-  "rpgsmw:paladin_class": {
-    "criteria": {
-      "paladin_class_0": "2025-02-10 01:34:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-10 01:08:49 +0000"
@@ -319,6 +377,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 01:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-10 01:53:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-02-10 01:07:42 +0000"
@@ -328,6 +398,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-10 01:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-10 01:57:46 +0000"
     },
     "done": true
   },
@@ -352,6 +428,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-10 01:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-10 01:51:21 +0000"
     },
     "done": true
   },
@@ -382,6 +464,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-02-10 01:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-10 01:58:36 +0000"
     },
     "done": true
   },
@@ -427,9 +515,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-02-10 01:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-10 01:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-10 01:58:36 +0000"
     },
     "done": true
   },

@@ -5055,3 +5055,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 01:44:42.019] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
 [10Feb2025 01:44:46.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> JAJAJJA
 [10Feb2025 01:44:50.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WositoGamer> WTF JAJAJ
+[10Feb2025 01:44:54.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> No te hago na
+[10Feb2025 01:44:59.288] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 01:44:59.291] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 01:45:12.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:45:12.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 01:45:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WositoGamer> Erga comida jajaj
+[10Feb2025 01:45:28.330] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 01:45:28.333] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 01:45:32.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> quitate eso
+[10Feb2025 01:45:35.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WositoGamer> AJAJAJAJA
+[10Feb2025 01:45:41.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> te hago barra ban
+[10Feb2025 01:45:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WositoGamer> Comidaaaw
+[10Feb2025 01:46:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Feb2025 01:46:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desop<--[HERE]
+[10Feb2025 01:46:41.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made WositoGamer no longer a server operator
+[10Feb2025 01:47:17.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made KewexX07 a server operator
+[10Feb2025 01:50:03.460] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 01:50:03.461] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 01:50:12.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:50:12.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 01:50:14.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 hit the ground too hard
+[10Feb2025 01:50:14.960] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KewexX07 with unique ID travelersbackpack.enderman_10.02.2025-01.50.14.dat
+[10Feb2025 01:50:14.966] [Server thread/DEBUG] [tombstone/]: A new grave of the player KewexX07 was created at position [x:96, y:68, z:108, dim:minecraft:overworld]
+[10Feb2025 01:50:14.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Your First Grave]
+[10Feb2025 01:50:16.323] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 01:50:26.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WositoGamer lost connection: Timed out
+[10Feb2025 01:50:26.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer left the game
+[10Feb2025 01:51:39.731] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 01:51:39.732] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 01:51:55.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 was shot by Skeleton
+[10Feb2025 01:51:55.321] [Server thread/DEBUG] [tombstone/]: A new grave of the player KewexX07 was created at position [x:124, y:69, z:107, dim:minecraft:overworld]
+[10Feb2025 01:51:57.059] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 01:52:04.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has reached the goal [Here They Come]
+[10Feb2025 01:52:29.784] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 01:52:29.785] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 01:52:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [Knowledge of Death]
+[10Feb2025 01:52:35.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has reached the goal [Chain Death]
+[10Feb2025 01:52:35.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 was impaled on a stalagmite
+[10Feb2025 01:52:35.869] [Server thread/DEBUG] [tombstone/]: A new grave of the player KewexX07 was created at position [x:104, y:22, z:78, dim:minecraft:overworld]
+[10Feb2025 01:52:37.966] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 01:53:43.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Creative Mode]
+[10Feb2025 01:55:12.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:55:12.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 01:56:12.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Survival Mode]
+[10Feb2025 01:56:17.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Creative Mode]
+[10Feb2025 01:57:24.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Survival Mode]
+[10Feb2025 01:57:45.884] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
+[10Feb2025 01:57:45.891] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 01:57:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Creative Mode]
+[10Feb2025 01:57:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 was blown up by Creeper
+[10Feb2025 01:57:59.823] [Server thread/DEBUG] [tombstone/]: A new grave of the player KewexX07 was created at position [x:124, y:73, z:136, dim:minecraft:overworld]
+[10Feb2025 01:58:01.035] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Feb2025 01:58:30.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Survival Mode]
+[10Feb2025 01:58:57.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Creative Mode]
+[10Feb2025 02:00:12.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 02:00:12.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 02:01:30.198] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[10Feb2025 02:03:42.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Survival Mode]
+[10Feb2025 02:03:46.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has completed the challenge [Paladin Class]
