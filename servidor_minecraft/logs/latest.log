@@ -1458,3 +1458,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Feb2025 04:12:33.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU has made the advancement [Best Friends Forever]
 [10Feb2025 04:12:34.778] [Server thread/WARN] [tombstone/]: The death event of the player KewexX07 was canceled by another mod
 [10Feb2025 04:12:34.783] [Server thread/INFO] [tombstone/]: The player KewexX07 has successfully been saved
+[10Feb2025 04:17:19.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoelTupapiUwU lost connection: Disconnected
+[10Feb2025 04:17:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoelTupapiUwU left the game
+[10Feb2025 04:17:36.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KewexX07 lost connection: Disconnected
+[10Feb2025 04:17:36.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 left the game
+[10Feb2025 04:17:43.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WositoGamer lost connection: Disconnected
+[10Feb2025 04:17:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WositoGamer left the game
+[10Feb2025 04:17:50.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Feb2025 04:17:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Feb2025 04:17:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Feb2025 04:17:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Feb2025 04:17:50.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Feb2025 04:17:50.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Feb2025 04:17:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Feb2025 04:17:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Feb2025 04:17:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Feb2025 04:17:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Feb2025 04:17:50.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
