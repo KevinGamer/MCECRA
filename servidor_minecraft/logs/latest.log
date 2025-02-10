@@ -796,3 +796,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 02:01:30.198] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
 [10Feb2025 02:03:42.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Survival Mode]
 [10Feb2025 02:03:46.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has completed the challenge [Paladin Class]
+[10Feb2025 02:05:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Creative Mode]
+[10Feb2025 02:05:50.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set own game mode to Survival Mode]
+[10Feb2025 02:11:39.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 has made the advancement [A Strange Grave Dust]
